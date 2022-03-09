@@ -26,6 +26,7 @@
     "@wordpress/prettier-config": "^1.1.2",
     "@wordpress/scripts": "^22.1.0",
     "@wordpress/stylelint-config": "^20.0.1",
+    "classnames": "^2.3.1",
     "eslint-config-prettier": "^8.5.0",
     "husky": "^7.0.4",
     "stylelint": "^14.5.3"
